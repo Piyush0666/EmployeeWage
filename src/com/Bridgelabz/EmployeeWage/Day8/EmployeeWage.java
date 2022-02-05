@@ -3,11 +3,11 @@ package com.Bridgelabz.EmployeeWage.Day8;
 public class EmployeeWage {
 
     public static void main(String[] args) {
-        Attendence attendence = new Attendence();
-        attendence.empCheck();
+        Attendance attendance = new Attendance();
+        attendance.empCheck();
     }
 }
-class Attendence {
+class Attendance {
     public static final int IS_PRESENT = 1;
     public static final int IS_ABSENT = 0;
     public void empCheck() {
