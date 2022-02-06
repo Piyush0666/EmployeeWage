@@ -9,6 +9,7 @@ public class EmployeeWage {
         reliance.empCheck();
 
     }
+
 }
 class EmpCalculation
 {
